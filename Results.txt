@@ -1,0 +1,37 @@
+Database Exploration
+
+1.Use this space to make note of each table in the database, the columns within each table, each column’s data type, and how the tables are connected. You can write this down or draw a diagram. Whatever method helps you get an understanding of what is going on with LaborStatisticsDB.
+
+2. What is the datatype for women employees?
+	data_type_code = 10
+
+3. What is the series id for  women employees in the commercial banking industry in the financial activities supersector?
+	CES5552211010
+	CEU5552211010
+
+
+
+Aggregate Your Friends
+
+1. How many employees were reported in 2016 in all industries? Round to the nearest whole number.
+	2,340,612
+
+2. How many women employees were reported in 2016 in all industries? Round to the nearest whole number. 
+	1,125,490
+
+3. How many production/nonsupervisory employees were reported in 2016? Round to the nearest whole number. 
+	1,263,650
+
+4. In January 2017, what is the average weekly hours worked by production and nonsupervisory employees across all industries?
+	36.06
+
+5. What is the total weekly payroll for production and nonsupervisory employees across all industries in January 2017?
+	$1,838,753,220
+
+6. In January 2017, which industry was the average weekly hours worked by production and nonsupervisory employees the highest? Which industry was the lowest?
+	Motor vehicle power train components	49.6
+	Fitness and recreational sports centers	16.9
+
+7. In January 2017, which industry was the total weekly payroll for production and nonsupervisory employees the highest? Which industry was the lowest?
+	Total private	$295,944,946
+	Coin-operated laundries and drycleaners	$40,448
